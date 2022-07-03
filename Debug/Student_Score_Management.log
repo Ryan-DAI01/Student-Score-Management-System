@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\Tsinghua\大二夏季\Student_Score_Management\main.cpp(671,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\Tsinghua\大二夏季\Student_Score_Management\main.cpp(674,15): warning C4018: “<”: 有符号/无符号不匹配
+D:\Tsinghua\大二夏季\Student_Score_Management\main.cpp(677,15): warning C4018: “<”: 有符号/无符号不匹配
+D:\Tsinghua\大二夏季\Student_Score_Management\main.cpp(860,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\Tsinghua\大二夏季\Student_Score_Management\main.cpp(863,15): warning C4018: “<”: 有符号/无符号不匹配
+D:\Tsinghua\大二夏季\Student_Score_Management\main.cpp(866,15): warning C4018: “<”: 有符号/无符号不匹配
+D:\Tsinghua\大二夏季\Student_Score_Management\main.cpp(388): warning C4715: “Student::AddCourse”: 不是所有的控件路径都返回值
+D:\Tsinghua\大二夏季\Student_Score_Management\main.cpp(532): warning C4715: “Teacher::AddCourse”: 不是所有的控件路径都返回值
+  Student_Score_Management.vcxproj -> D:\Tsinghua\大二夏季\Student_Score_Management\Debug\Student_Score_Management.exe
